@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'statless.dart';
-import 'main screen.dart';
+import 'Screens/selecting_screen.dart';
+import 'Screens/result_screen.dart';
 
 void main() {
   runApp(
     const MaterialApp(
-      home: MyApp(),
+      home: SelectingScreen(),
       // routes: {
       //   '/': (context) => const MyApp(),
       //   '/s': (context) => const Main(),
