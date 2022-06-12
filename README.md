@@ -1,16 +1,9 @@
 # climate
 
-A new Flutter project.
+Weather app
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![alttext](https://lh3.googleusercontent.com/pw/AM-JKLUnL9egAHsWdAbSA49OoMaefV1C4peNdy-xJw2acJNvGKCEs5Dkp4XkhEln08ZA6SYCgTHaOENiSpGkVXIx0bhfrkUHb1q0y1zQA-EqQMWTQN7RQfg6p2OmN3sFIk8sqeumJUmeUsWFeeOsMV2AjAbzqw=w437-h969-no?authuser=0)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alttext](https://lh3.googleusercontent.com/pw/AM-JKLWlZZwc8k_KwLGQTz8gop_xI2C962wD3A1gpYd-hVHdsGWgy2mLuq0wRoUHNFNP_pajxMqypjHQt92JUaTnhjsoiD39yTDHDZT2QrKY4LTWZBTMBGJ2_t0IN-hOMqt__zJ2MJgRMwXrAzTUkxlQLI8JGA=w437-h969-no?authuser=0)
